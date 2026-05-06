@@ -1,0 +1,9 @@
+﻿order_status,total_orders,orders_percentage,total_order_items,total_order_value,total_freight_value,average_order_value
+delivered,96478,97.02,110197,13221498.11,2198275.64,137.04
+shipped,1107,1.11,1185,150727.44,26401.9,136.16
+canceled,625,0.63,542,95235.27,10650.45,152.38
+unavailable,609,0.61,7,2007.69,132.8,3.3
+invoiced,314,0.32,359,61526.37,7462.38,195.94
+processing,301,0.3,357,60439.22,8954.89,200.79
+created,5,0.01,0,0.0,0.0,0.0
+approved,2,0.0,3,209.6,31.48,104.8

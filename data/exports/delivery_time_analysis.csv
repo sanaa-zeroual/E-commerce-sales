@@ -1,0 +1,6 @@
+﻿analysis_scope,bucket_order,delivery_time_group,total_orders,orders_percentage,average_delivery_days,median_delivery_days,min_delivery_days,max_delivery_days
+delivered_orders_with_valid_delivery_dates,0,All delivered orders,96470,100.0,12.56,10.22,0.53,209.63
+delivered_orders_with_valid_delivery_dates,1,0-7 days,26100,27.06,4.67,4.95,0.53,7.0
+delivered_orders_with_valid_delivery_dates,2,8-14 days,40188,41.66,10.09,9.97,7.01,14.0
+delivered_orders_with_valid_delivery_dates,3,15-30 days,25634,26.57,19.29,18.27,14.01,30.0
+delivered_orders_with_valid_delivery_dates,4,31+ days,4548,4.71,41.65,37.04,30.01,209.63

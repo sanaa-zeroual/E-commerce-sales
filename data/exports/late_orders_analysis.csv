@@ -1,0 +1,8 @@
+﻿analysis_scope,section,bucket_order,delivery_status,total_orders,percent_of_all_valid_delivered_orders,percent_of_late_orders,average_days_vs_estimated,median_days_vs_estimated,min_days_vs_estimated,max_days_vs_estimated
+delivered_orders_with_valid_actual_and_estimated_dates,overall,0,All delivered orders,96470,100.0,,-11.88,-12.0,-147.0,188.0
+delivered_orders_with_valid_actual_and_estimated_dates,delivery_punctuality,1,On time or early,89936,93.23,,-13.51,-13.0,-147.0,0.0
+delivered_orders_with_valid_actual_and_estimated_dates,delivery_punctuality,2,Late,6534,6.77,,10.62,7.0,1.0,188.0
+delivered_orders_with_valid_actual_and_estimated_dates,late_delay_bucket,3,1-7 days late,3672,3.81,56.2,3.64,3.0,1.0,7.0
+delivered_orders_with_valid_actual_and_estimated_dates,late_delay_bucket,4,8-14 days late,1478,1.53,22.62,10.59,10.0,8.0,14.0
+delivered_orders_with_valid_actual_and_estimated_dates,late_delay_bucket,5,15-30 days late,1039,1.08,15.9,20.39,20.0,15.0,30.0
+delivered_orders_with_valid_actual_and_estimated_dates,late_delay_bucket,6,31+ days late,345,0.36,5.28,55.65,42.0,31.0,188.0
