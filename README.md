@@ -10,8 +10,6 @@ A Python-based data analysis project for exploring, processing, and visualizing 
 E-commerce-sales/
 ├── data/               # Raw and processed datasets
 ├── src/                # Python scripts for data processing and analysis
-├── powerbi/            # Power BI dashboard files (.pbix)
-├── reports/            # Generated reports and output files
 └── requirements.txt    # Python dependencies
 ```
 
