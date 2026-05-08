@@ -35,7 +35,7 @@ Key areas of analysis include:
 |------|---------|
 | Python | Data processing & analysis |
 | Pandas | Data manipulation |
-| Power BI | Interactive dashboard & visualization |
+
 
 ---
 
